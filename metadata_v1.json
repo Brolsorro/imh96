@@ -1,6 +1,6 @@
 {
-  "name": "My Awesome Token",
-  "symbol": "MAT",
+  "name": "OPOS",
+  "symbol": "OPOS",
   "uri": "https://ipfs.io/ipfs/QmS8wRpYE6m2iSBgv1W4oS4ouBq14HJExLVqhFFW6oLFzU",
   "seller_fee_basis_points": 500,
   "creators": null
