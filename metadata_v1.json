@@ -1,7 +1,6 @@
 {
   "name": "OPOS",
   "symbol": "OPOS",
-  "uri": "https://raw.githubusercontent.com/Brolsorro/imh96/refs/heads/main/1.png",
-  "seller_fee_basis_points": 500,
-  "creators": null
+  "image": "https://raw.githubusercontent.com/Brolsorro/imh96/refs/heads/main/1.png",
+  "description": "Just a cool little coin, just for me."
 }
