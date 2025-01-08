@@ -1,0 +1,7 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "uri": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
